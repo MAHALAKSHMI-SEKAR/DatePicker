@@ -39,4 +39,4 @@ For more information on deploying your app, refer to our [Next.js deployment doc
 
 ## Live Demo
 
-You can view the live demo of the Date Picker component at [https://mahalakshmi-sekar.github.io/DatePicker/](https://mahalakshmi-sekar.github.io/DatePicker/).
+You can view the live demo of the Date Picker component at [https://mahalakshmi-sekar.github.io/DatePicker](https://mahalakshmi-sekar.github.io/DatePicker/).
