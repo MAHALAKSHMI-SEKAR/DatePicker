@@ -1,3 +1,6 @@
+Here’s the updated version of your README with the live demo link added:
+
+```markdown
 # DatePicker
 
 This project is built with [Next.js](https://nextjs.org) using the [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app) tool. It facilitates the development of a reusable Date Picker component, allowing users to select recurring dates efficiently.
@@ -12,22 +15,21 @@ Ensure you have Node.js installed on your machine.
 
 1. Clone the repository:
 
-   ```bash
    git clone https://github.com/MAHALAKSHMI-SEKAR/DatePicker.git
    cd DatePicker
-   ```
+
 
 2. Install the dependencies:
 
-   ```bash
+
    npm install
-   ```
+ 
 
 3. To start the development server, execute:
 
-   ```bash
+
    npm run dev
-   ```
+ 
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the application in action.
 
@@ -53,4 +55,4 @@ For more information on deploying your app, refer to the [Next.js deployment doc
 
 ## Live Demo
 
-You can view the live demo of the Date Picker component at [https://github.com/MAHALAKSHMI-SEKAR/DatePicker](https://github.com/MAHALAKSHMI-SEKAR/DatePicker).
+You can view the live demo of the Date Picker component at [https://date-picker-plum.vercel.app/](https://date-picker-plum.vercel.app/).
