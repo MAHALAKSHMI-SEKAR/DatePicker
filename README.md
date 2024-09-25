@@ -12,6 +12,4 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 First, clone the repository:
 
-```bash
-git clone https://github.com/mahalakshmi-sekar/DatePicker.git
-cd DatePicker
+https://mahalakshmi-sekar.github.io/DatePicker/
